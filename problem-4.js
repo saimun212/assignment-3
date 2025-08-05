@@ -1,11 +1,11 @@
-/*==============problem---04---question===== */
+/**===========starting---question-----part============== */
 /** Problem 04 - (Delete / Store) */
 var fileName= "pdfData.jpg";
 //write your code here
 
 /*===============Writing-----start-&---solution----part============ */
 /*=========1st======= */
-var fileName= "pdfData.jpg";
+ /*====file----list ----- */
 var fileList = [
     "result.pdf",
     "data.docx",
@@ -16,6 +16,7 @@ var fileList = [
     "slipdf.txt"
 
 ];
+/*===========> main-part  <============== */
 for (var i = 0; i < fileList.length; i++){
     fileName = fileList[i];
     if (
