@@ -10,4 +10,4 @@ var area = 15 / 2;
 console.log(area);
 
 var area = 2060 / 2;
-console.log(area);
+console.log(area);  
